@@ -1,0 +1,11 @@
+1) https://codeby.net/threads/md5-algorithm.73782/
+2) http://rosettacode.org/wiki/MD5/Implementation#Python
+3) https://ru.wikipedia.org/wiki/MD5
+4) https://docs-python.ru/standart-library/modul-sys-python/atribut-byteorder-modulja-sys/
+5) https://md5-online.ru/
+6) https://internet--technologies-ru.turbopages.org/internet-technologies.ru/s/articles/modul-time-taymery-vremeni.html
+7) file:///C:/Users/69110/Downloads/CryptographyCourseWork.pdf
+8) https://xakep.ru/2012/12/26/59882/
+--------------------------------------------------------------------------
+Windows: pyinstaller -F -w -i "D:\Работа\Проект 1\images\icon.ico" main_window.py
+Linux: python3 -m PyInstaller main.py --onefile --noconsole --icon "icon.ico"
